@@ -2,4 +2,8 @@
 
 My name is **Nurul Ngaeni**.   
 
-I am a dedicated Informatics Engineering student at Eleven March University with a strong enthusiasm for technology. Currently, I am engaged in Independent Studies at Bangkit Academy, specializing in Machine Learning. My background includes serving as a valuable member of the helpdesk team at UPT TIK UNS, where I excel in customer communication and resolving tech-related issues. I have actively engaged in various campus organizations, both internal and external. My passion lies in crafting exceptional user interface and user experience designs, thriving on the challenge of creating sleek, relevant designs. I am actively seeking opportunities to contribute in this dynamic field. Reach out to me at nurulngaeni13@gmail.com for potential collaborations.
+Detail-oriented and analytical Informatics Engineering graduate with practical experience in data analysis, project management, and financial operations. I hold an Associate Degree in Informatics Engineering from Sebelas Maret University and have completed Independent Studies at Bangkit Academy, specializing in Machine Learning.
+
+I have a strong background in problem-solving, critical thinking, and communication, which I have applied in various roles, including serving on a helpdesk team at UPT TIK UNS and engaging in campus organizations. I am passionate about leveraging technology and data to drive decision-making and optimize processes in industries such as technology, finance, and human resources.
+
+I am enthusiastic about pursuing opportunities in these fields to make a meaningful impact. Feel free to connect with me at nurulngaeni13@gmail.com for collaborations or career opportunities.
